@@ -1,4 +1,4 @@
-
+[![CI](https://github.com/nogibjj/SiMinL_MatrixBuildAssignment/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/SiMinL_MatrixBuildAssignment/actions/workflows/hello.yml)
 
 # SiMinL_Matrix Test Assignment
 
